@@ -1,6 +1,6 @@
 # 🌅 Digital Image Processing Project
 
-![GitHub](https://img.shields.io/badge/Python-3.7%2B-blue) ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green) !
+![GitHub](https://img.shields.io/badge/Python-3.7%2B-blue) ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green)
 
 ## 📖 Project Overview
 
